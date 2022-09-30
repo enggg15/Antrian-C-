@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664511908 source:c:\users\dell\documents\codeblocks\tugas pdp 1 daspro\daspro pdp1\tugas struktur data 1\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
